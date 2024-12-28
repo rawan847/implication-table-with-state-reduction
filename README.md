@@ -1,0 +1,1 @@
+# implication-table-with-state-reduction
